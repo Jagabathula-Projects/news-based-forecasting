@@ -21,7 +21,7 @@ Code and data for the paper *News event-driven forecasting of commodity prices*.
 
 *foodprice_plot.ipynb* : ipython notebook for plotting daily forecast errors (Figure 3 and EC.4)
 
-*importance/event_importance_score.ipynb* : ipython notebook for computing event importance scores as described in Section 5.2
+*importance/event_importance_score.ipynb* : ipython notebook for computing event importance scores as described in Section 5.1
 
 *importance/Figure_4_heatmap.ipynb* : ipython notebook for plotting Figure 4 heatmap
 
