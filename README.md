@@ -11,13 +11,11 @@ Code and data for the paper *News event-driven forecasting of commodity prices*.
 ## Code 
 *embeddings/embeddings.ipynb* : ipython notebook for computing the LDA topic, doc2vec and word2vec embeddings from news corpus
 
-*foodprice_arima.ipynb* : ipython notebook implementing and testing linear forecasting models (ARIMA and AR)
+*foodprice_linear.ipynb* : ipython notebook implementing and testing linear forecasting models (ARIMA and AR)
 
 *foodprice_nonlinear_raw.ipynb* : ipython notebook implementing LSTM models with raw prices as inputs
 
 *foodprice_nonlinear_returns.ipynb* : ipython notebook implementing LSTM models with log(1+return) as inputs
-
-*foodprice_nonlinear_testing.ipynb* : ipython notebook testing LSTM models 
 
 *foodprice_plot.ipynb* : ipython notebook for plotting daily forecast errors (Figure 3 and EC.4)
 
